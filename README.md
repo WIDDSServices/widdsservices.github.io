@@ -14,3 +14,6 @@ What We Offer
 Explore Our Projects
 
 -  Browse through our repositories to find tools, scripts, and resources designed to elevate your gaming journey. Join us and become a part of our thriving community!
+
+-  Make sure to join our discord!
+https://discord.gg/jAXW9fq7
